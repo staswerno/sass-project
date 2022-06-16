@@ -22,7 +22,7 @@
   font-size: 5rem;
   padding-bottom: 1rem;
   margin-top: 1rem;
-  border-bottom: 2px solif #fff;
+  border-bottom: 2px solid #fff;
 }
 
 .home__name--last {
@@ -45,7 +45,7 @@ h3 {
 }
 
 a {
-  color: white;
+  color: #fff;
   text-decoration: none;
 }
 

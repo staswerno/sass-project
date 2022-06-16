@@ -1,4 +1,4 @@
 ## sass example project
 
 source: https://www.youtube.com/watch?v=_a5j7KoflTs  
-current: text color function
+current: menu.scss
