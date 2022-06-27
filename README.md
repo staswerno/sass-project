@@ -1,4 +1,4 @@
 ## sass example project
 
 source: https://www.youtube.com/watch?v=_a5j7KoflTs  
-current: Menu cont. 1:08
+current: about.html || https://www.youtube.com/watch?v=_a5j7KoflTs&t=4778s
